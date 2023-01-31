@@ -6,5 +6,5 @@
 
 
 
-#!bin/bash/necho ALX School
 
+echo "ALX School"
